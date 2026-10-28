@@ -1,1 +1,1 @@
-- Fixed shift-clicking oven recipes still only moving a single item instead of a stack
+- Fixed crash when bone-mealing fridge
